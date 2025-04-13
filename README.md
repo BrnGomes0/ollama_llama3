@@ -1,1 +1,1 @@
-Ollama TEST
+Ollama model llama3
