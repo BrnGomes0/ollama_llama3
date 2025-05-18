@@ -1,2 +1,1 @@
-# Image Ollama with Llama3 - Docker images
-
+# Image Ollama with Llama3 - Docker
